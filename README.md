@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Roei Barak
-- 👀 I’m interested in HW/SW development , Cyber and Network
-- 🌱 I’m currently learning computer science in Lev Academic Center
-- 💞️ I’m looking to collaborate on C++ and Python
+- 👀 I’m interested in embedded development , Cyber and Network
+- 🌱 I’m currently learning computer science in Lev Academic Center and work in KramerAv
 - 📫 How to reach me: Roeibarak123@gmail.com
 
 <!---
